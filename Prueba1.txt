@@ -1,4 +1,7 @@
 Estamos en clase de Desarrollo del Software
-Son las 3:51 pm
 Hola todos los participantes
+<<<<<<< Updated upstream
 Metodología de Trabajo en grupo
+=======
+
+>>>>>>> Stashed changes
