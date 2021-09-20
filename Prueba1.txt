@@ -1,7 +1,8 @@
-Estamos en clase de Desarrollo del Software
+﻿Estamos en clase de Desarrollo del Software
 Hola todos los participantes
 <<<<<<< Updated upstream
 Metodología de Trabajo en grupo
 =======
 
 >>>>>>> Stashed changes
+Ejercicio de prueba
